@@ -1,6 +1,8 @@
-# authentication_boilerplate
+# authentication boilerplate
 
-This is an authentication boilerplate for a node backend. 
+This is an authentication boilerplate for a node backend.
+
+Looking for a docker supported version check out the [docker branch](https://github.com/perkinsjr/authentication_boilerplate/tree/docker-support)
 
 ## Needed to run
 
