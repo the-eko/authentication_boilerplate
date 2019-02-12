@@ -106,7 +106,7 @@ exports.forgot_password = function (req, res) {
         if (!err) {
           return res.json({ message: 'Kindly check your email for further instructions' });
         } else {
-          return done(err);
+          return res.status(422).json({ error: 'There was an error trying to send Sendgrid, this is usually wrong auth.' });
         }
       });
     }
