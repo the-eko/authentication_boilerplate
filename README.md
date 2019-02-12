@@ -1,12 +1,11 @@
-# authentication_boilerplate
+# authentication boilerplate
 
 This is an authentication boilerplate for a node backend. 
 
 ## Needed to run
 
 1. Sendgrid account (free tier is 100 emails a day )
-2. Node
-3. Mongo
+3. Docker and Docker compose.
 4. Postman or App to link
 
 
@@ -18,7 +17,7 @@ First go ahead and change these to your email a key of your choice and sendgrid 
     SEND_GRID_USER=[sendgriduser]
     SEND_GRID_PASS=[sendgridpass]
 
-Then run npm install and then npm run dev.
+Then run docker-compose up from the root.
 
 ## API Routes
 
