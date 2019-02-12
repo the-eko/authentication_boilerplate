@@ -63,4 +63,4 @@ to run forgot password you need to call a post:
       reset_password_token: "reset_token_from_email"
      }
      
-Any issues or feature requests please go ahead and issue and I will take care of it.  
+Any issues or feature requests please use the issue template (ISSUE_TEMPLATE.MD  in the root)
