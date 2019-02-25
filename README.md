@@ -22,6 +22,10 @@ First go ahead and change these to your email a key of your choice and sendgrid 
 
 Then run npm install and then npm run dev.
 
+<a href="https://www.patreon.com/james_perkins">
+	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
+
 ## API Routes
 
 All routes run through the following 
